@@ -1,0 +1,1 @@
+{"avatar_url":"","email":"laurenthomas@example.com","name":"Ariel Duncan","nickname":"serranojoshua","uuid":"f6253e67-6199-493e-b6dc-daf44d2e67c6"}

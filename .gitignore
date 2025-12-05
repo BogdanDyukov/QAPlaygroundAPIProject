@@ -1,0 +1,17 @@
+# pycharm/vscode
+.idea
+.vscode
+
+# python
+.venv
+__pycache__
+
+# pytest
+.pytest_cache
+
+# allure
+allure-results
+allure-report
+
+# secret
+config/.env.secret

@@ -1,0 +1,10 @@
+curl -X POST https://release-gs.qa-playground.com/api/v1/users/340b54d4-9c68-4047-8c8a-bb062db14fd2/wishlist/add \
+  -H 'User-Agent: python-requests/2.32.5' \
+  -H 'Accept-Encoding: gzip, deflate' \
+  -H 'Accept: */*' \
+  -H 'Connection: keep-alive' \
+  -H 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsImtpZCI6IldGZlRBQ0hzYUhvQ3VML1MiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL215a290cWJvY2t6dnphY2NjdWJ6LnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiI5YzQ4NzgwYi1kNGVlLTQ2N2MtOWI0MC1mOTMyZTEzMjdkYmYiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzY1MTc4OTU2LCJpYXQiOjE3NjQ1Nzg5NTYsImVtYWlsIjoiaW5mb3JtYXRvY2hrYUBtYWlsLnJ1IiwicGhvbmUiOiIiLCJhcHBfbWV0YWRhdGEiOnsicHJvdmlkZXIiOiJnaXRodWIiLCJwcm92aWRlcnMiOlsiZ2l0aHViIl19LCJ1c2VyX21ldGFkYXRhIjp7ImF2YXRhcl91cmwiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvOTgzODc4OTU_dj00IiwiZW1haWwiOiJpbmZvcm1hdG9jaGthQG1haWwucnUiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbSIsInBob25lX3ZlcmlmaWVkIjpmYWxzZSwicHJlZmVycmVkX3VzZXJuYW1lIjoiQm9nZGFuRHl1a292IiwicHJvdmlkZXJfaWQiOiI5ODM4Nzg5NSIsInN1YiI6Ijk4Mzg3ODk1IiwidXNlcl9uYW1lIjoiQm9nZGFuRHl1a292In0sInJvbGUiOiJhdXRoZW50aWNhdGVkIiwiYWFsIjoiYWFsMSIsImFtciI6W3sibWV0aG9kIjoib2F1dGgiLCJ0aW1lc3RhbXAiOjE3NjMxMTQxMzd9XSwic2Vzc2lvbl9pZCI6IjZhNGJiMWEyLWJjYjAtNDkxNy05NTE0LTJiNWNiOWZlNjA2YiIsImlzX2Fub255bW91cyI6ZmFsc2V9.kPPrXrUxWR2PXgA-AOfu-ViPG-LY4nIZPtg8OW-A0Wk' \
+  -H 'X-Task-Id: API-1' \
+  -H 'Content-Length: 53' \
+  -H 'Content-Type: application/json' \
+  -d '{"item_uuid": "1990ecdd-4d3d-4de2-91b9-d45d794c82bc"}'
